@@ -1,10 +1,8 @@
-#  Automatic Text Summarization of Hindi Articles
-
-We have devloped a text summarizer using unsupervised TextRnk algorithm.
+# Automatic text summarization of hindi articles using unsupervised TextRnk algorithm
 
 
-##Contrbutors:
+## Contrbutors:
 ### Akshay Gupta
 ### Amit Jha
 ### Geetakshi Batra
-### SUdeep Sureshan 
+### Sudeep Sureshan 
