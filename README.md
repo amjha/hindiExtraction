@@ -1,4 +1,4 @@
-# Automatic text summarization of hindi articles using unsupervised TextRnk algorithm
+# Automatic text summarization of hindi articles using unsupervised TextRank algorithm
 
 
 ## Contrbutors:
